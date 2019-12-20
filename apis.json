@@ -1,0 +1,130 @@
+{
+    "name": "YouTube",
+    "description": "YouTube is an American video-sharing website headquartered in San Bruno, California.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11515-youtube.jpg",
+    "tags": [
+        "general data",
+        "have api",
+        "historical data api",
+        "pedestal",
+        "relative data",
+        "service api",
+        "streams",
+        "videos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/youtube\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "YouTube",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11515-youtube.jpg",
+            "humanURL": "https:\/\/developers.google.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/youtube.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/youtube-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Articles",
+            "url": "https:\/\/developers.google.com\/youtube\/articles\/"
+        },
+        {
+            "type": "Authentication",
+            "url": "https:\/\/developers.google.com\/youtube\/v3\/guides\/authentication"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/youtube-eng.googleblog.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/youtube-eng.googleblog.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Branding",
+            "url": "https:\/\/developers.google.com\/youtube\/branding_guidelines"
+        },
+        {
+            "type": "Bug Report",
+            "url": "https:\/\/code.google.com\/p\/gdata-issues\/issues\/entry"
+        },
+        {
+            "type": "Bug Report",
+            "url": "https:\/\/code.google.com\/p\/gdata-issues\/issues\/list?q=label:API-YouTube"
+        },
+        {
+            "type": "Buttons",
+            "url": "https:\/\/developers.google.com\/youtube\/youtube_subscribe_button"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/youtube"
+        },
+        {
+            "type": "Deprecation Policy",
+            "url": "https:\/\/developers.google.com\/youtube\/youtube-api-list"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developers.google.com\/youtube\/"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@youtube.com"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/developers.google.com\/youtube\/v3\/getting-started"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/youtube"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/youtube\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/developers.google.com\/youtube\/terms"
+        },
+        {
+            "type": "Training",
+            "url": "https:\/\/developers.google.com\/youtube\/training\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/YouTubeDev"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/YouTube"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.youtube.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developers.google.com"
+        },
+        {
+            "type": "Widgets",
+            "url": "https:\/\/developers.google.com\/youtube\/youtube_upload_widget"
+        }
+    ]
+}
