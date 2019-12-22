@@ -1,5 +1,5 @@
 {
-    "id": "9253de1aaf171cca320d8a2d02652d30",
+    "id": "4a877959d25ad58e6d4cf5cd253c70f4",
     "name": "YouTube",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "b1fa800f108048a4cbd35454c7f81d58",
+            "id": "e7508e76f54fdf9beffbc23af58df4c7",
             "name": "Get Jobs",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs",
             "description": "Lists jobs.",
@@ -58,11 +58,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7403598ed0e449331555521e3b3f9934",
+            "id": "7eee4389336f5795976ce26f783bf37c",
             "name": "Add Jobs",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs",
             "description": "Creates a job and returns it.",
@@ -96,11 +96,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "5c4ab3b4e03c79e39bc87f6e62348e0d",
+            "id": "952c59c09eebf7d86657c51aa4753efc",
             "name": "Delete Jobs Job",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs\/{jobId}",
             "description": "Delete v1 jobs job",
@@ -134,11 +134,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "46e6ee81b5d5777a8faf52cc17020dc2",
+            "id": "25937617db9513aa585abaa8648608c4",
             "name": "Get Jobs Job",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs\/{jobId}",
             "description": "Get v1 jobs job",
@@ -172,11 +172,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "769a5b892b485023507f45cd715d4b02",
+            "id": "a44958dcbae8db5a2ba746ef068db1c8",
             "name": "Get Jobs Job Reports",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs\/{jobId}\/reports",
             "description": "Lists reports created by a specific job.\nReturns NOT_FOUND if the job does not exist.",
@@ -245,11 +245,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7ff74d551ec929dc7c1e820be6d52ac4",
+            "id": "cd9a65ef09feaff425f293cc2a53d705",
             "name": "Get Jobs Job Reports Report",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/jobs\/{jobId}\/reports\/{reportId}",
             "description": "Gets the metadata of a specific report.",
@@ -290,11 +290,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "9a29736495b3df6307376954c055e3dc",
+            "id": "fbe52e00cfd80ad1c62cf2257d10b623",
             "name": "Get Media Resource Name",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/media\/{resourceName}",
             "description": "Method for media download. Download is supported\non the URI `\/v1\/media\/{+name}?alt=media`.",
@@ -321,11 +321,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "17cf586a96da384b6a9ad050716214a3",
+            "id": "a1e57798b3b7b7e07e13543058e9a7e8",
             "name": "Get Reporttypes",
             "url": "httpswww.googleapis.com\/youtube\/v1\/v1\/reportTypes",
             "description": "Lists report types.",
@@ -373,11 +373,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "19bf5226636a633260ef7b84b2c19b1b",
+            "id": "a68f6f1fdeb93af49ebe4cb15beb31a0",
             "name": "Get Activities",
             "url": "httpswww.googleapis.com\/youtube\/v1\/activities",
             "description": "Returns a list of channel activity events that match the request criteria. For example, you can retrieve events associated with a particular channel, events associated with the user's subscriptions and Google+ friends, or the YouTube home page feed, which is customized for each user.",
@@ -460,11 +460,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "106584c98f32da16f0651fc80baa0ac4",
+            "id": "0e7a534e06771522bb3742ecf7da59e2",
             "name": "Add Activities",
             "url": "httpswww.googleapis.com\/youtube\/v1\/activities",
             "description": "Posts a bulletin for a specific channel. (The user submitting the request must be authorized to act on the channel's behalf.)\n\nNote: Even though an activity resource can contain information about actions like a user rating a video or marking a video as a favorite, you need to use other API methods to generate those activity resources. For example, you would use the API's videos.rate() method to rate a video and the playlistItems.insert() method to mark a video as a favorite.",
@@ -498,11 +498,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "102c91bcce17b5642843c5fcb05f4a3c",
+            "id": "e01f5fe893a07c821c5fd8aa67b9cca7",
             "name": "Delete Captions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/captions",
             "description": "Deletes a specified caption track.",
@@ -543,11 +543,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7d992f8bb8735417ebbeae99e96eb44f",
+            "id": "98cd46f22336225fb1a13b7c6aca4318",
             "name": "Get Captions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/captions",
             "description": "Returns a list of caption tracks that are associated with a specified video. Note that the API response does not contain the actual captions and that the captions.download method provides the ability to retrieve a caption track.",
@@ -602,11 +602,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "a3e93e89ee505dbc3b5df82cc775dc1e",
+            "id": "6f8ded187867d394971553f9c590d268",
             "name": "Add Captions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/captions",
             "description": "Uploads a caption track.",
@@ -661,11 +661,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "e77e439d68c6d7a0d428aac6e64ce10b",
+            "id": "169ed9b80346d9d2ff696f176e28f167",
             "name": "Put Captions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/captions",
             "description": "Updates a caption track. When updating a caption track, you can change the track's draft status, upload a new caption file for the track, or both.",
@@ -720,11 +720,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b91bfcfe3689e0572b370d3efe3d2738",
+            "id": "45710a695614ff2ce0fc1a6ea5ceff12",
             "name": "Get Captions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/captions\/{id}",
             "description": "Downloads a caption track. The caption track is returned in its original format unless the request specifies a value for the tfmt parameter and in its original language unless the request specifies a value for the tlang parameter.",
@@ -779,11 +779,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "d932ad2c8856ea8f922596f36bb49e91",
+            "id": "0c5100724d7475cd31c97cacffae1b53",
             "name": "Add Channel Banners Insert",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channelBanners\/insert",
             "description": "Uploads a channel banner image to YouTube. This method represents the first two steps in a three-step process to update the banner image for a channel:\n\n- Call the channelBanners.insert method to upload the binary image data to YouTube. The image must have a 16:9 aspect ratio and be at least 2120x1192 pixels.\n- Extract the url property's value from the response that the API returns for step 1.\n- Call the channels.update method to update the channel's branding settings. Set the brandingSettings.i",
@@ -824,11 +824,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "166da505bcd506971ad7c24db3ca716b",
+            "id": "b316e68db65a8dcde21c4f940da8f7d6",
             "name": "Delete Channel Sections",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channelSections",
             "description": "Deletes a channelSection.",
@@ -862,11 +862,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b03b31fd8871736021a8f5d9efba6cc8",
+            "id": "07f64d22a44a54cf90568d260e4fea33",
             "name": "Get Channel Sections",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channelSections",
             "description": "Returns channelSection resources that match the API request criteria.",
@@ -928,11 +928,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "74647c07ba5f794f6b947106dd5051f2",
+            "id": "a5bbff588dcf95ff3026c1ee147594ef",
             "name": "Add Channel Sections",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channelSections",
             "description": "Adds a channelSection for the authenticated user's channel.",
@@ -980,11 +980,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "643ad164367f3d3e10da4ddc043ff7ea",
+            "id": "aac452a74d14ac2d90d4bb251a4c58a2",
             "name": "Put Channel Sections",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channelSections",
             "description": "Update a channelSection.",
@@ -1025,11 +1025,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "dd4fcb1735cb4f2e8603403e8eafbb30",
+            "id": "ef084003edc8a44967834b6eb0131e52",
             "name": "Get Channels",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channels",
             "description": "Returns a collection of zero or more channel resources that match the request criteria.",
@@ -1126,11 +1126,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "6f5a2b48116142fd93a5654617b7c983",
+            "id": "cca53f9f812b4acfd57eb30f18d66195",
             "name": "Put Channels",
             "url": "httpswww.googleapis.com\/youtube\/v1\/channels",
             "description": "Updates a channel's metadata. Note that this method currently only supports updates to the channel resource's brandingSettings and invideoPromotion objects and their child properties.",
@@ -1171,11 +1171,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7a2829fe154552039bf25c2f20b3b5ce",
+            "id": "2322d60f1cfecab2ea596e306b67c206",
             "name": "Get Comment Threads",
             "url": "httpswww.googleapis.com\/youtube\/v1\/commentThreads",
             "description": "Returns a list of comment threads that match the API request parameters.",
@@ -1272,11 +1272,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "e2695594f33c5953f72baa3e063bdf2f",
+            "id": "d0e6d8c0e7a69a2946c0318da47578f9",
             "name": "Add Comment Threads",
             "url": "httpswww.googleapis.com\/youtube\/v1\/commentThreads",
             "description": "Creates a new top-level comment. To add a reply to an existing comment, use the comments.insert method instead.",
@@ -1310,11 +1310,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "d3facdcb940624b41a6cb1c57b5bf64e",
+            "id": "d1756aa639fd082c09e648001d0c7360",
             "name": "Put Comment Threads",
             "url": "httpswww.googleapis.com\/youtube\/v1\/commentThreads",
             "description": "Modifies the top-level comment in a comment thread.",
@@ -1348,11 +1348,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "d855503ad1ba28722c27544bc0d6ca34",
+            "id": "15536f97632f4e8d559146dcdae10560",
             "name": "Delete Comments",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments",
             "description": "Deletes a comment.",
@@ -1379,11 +1379,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "e7045a60c90c7470ff5fba97669efc14",
+            "id": "acc31697c1cca31ae019d3f507c654ff",
             "name": "Get Comments",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments",
             "description": "Returns a list of comments that match the API request parameters.",
@@ -1445,11 +1445,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "e83275326c65adf54e9db9cb9902d37a",
+            "id": "3f2575fd961723ee95f976124b7cf396",
             "name": "Add Comments",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments",
             "description": "Creates a reply to an existing comment. Note: To create a top-level comment, use the commentThreads.insert method.",
@@ -1483,11 +1483,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "835779cac896a52772ab54a6d724a781",
+            "id": "e81f0cf1bfe5f72b7adfdc1c6d74966c",
             "name": "Put Comments",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments",
             "description": "Modifies a comment.",
@@ -1521,11 +1521,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "abc8f2e8d0e2ee61011615cb24c78151",
+            "id": "7b0948a0a90d9360f915a5a78833618b",
             "name": "Add Comments Mark as SPAM",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments\/markAsSpam",
             "description": "Expresses the caller's opinion that one or more comments should be flagged as spam.",
@@ -1552,11 +1552,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "88db17063411ca939ccf062dbc2948a5",
+            "id": "26c6afde1312e590807681c9f9302ecb",
             "name": "Add Comments Set Moderation Status",
             "url": "httpswww.googleapis.com\/youtube\/v1\/comments\/setModerationStatus",
             "description": "Sets the moderation status of one or more comments. The API request must be authorized by the owner of the channel or video associated with the comments.",
@@ -1597,11 +1597,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "be2d720fcfe0c7805cd62caed763c191",
+            "id": "e8fbdf3aba9a3920c2a71fb8129b19db",
             "name": "Get Fanfundingevents",
             "url": "httpswww.googleapis.com\/youtube\/v1\/fanFundingEvents",
             "description": "Lists fan funding events for a channel.",
@@ -1649,11 +1649,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "17f2341376a7028bb26e839874a3951e",
+            "id": "70c1e8e674d4721f9661a82bb903e0b6",
             "name": "Get Guecategories",
             "url": "httpswww.googleapis.com\/youtube\/v1\/guideCategories",
             "description": "Returns a list of categories that can be associated with YouTube channels.",
@@ -1701,11 +1701,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "1996ebd21a2152355a744dde6abf1fef",
+            "id": "01c9191c27ee5f9df0e107ddb819e7bf",
             "name": "Get Languages",
             "url": "httpswww.googleapis.com\/youtube\/v1\/i18nLanguages",
             "description": "Returns a list of application languages that the YouTube website supports.",
@@ -1739,11 +1739,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "fa2a0f66313ec10488af752e710d5c9d",
+            "id": "e9501a187857fe8b20c1fd9853e4d863",
             "name": "Get Regions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/i18nRegions",
             "description": "Returns a list of content regions that the YouTube website supports.",
@@ -1777,11 +1777,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "5381d497cfd755e2e9affc9bac397610",
+            "id": "ee84508034f04545ab9999dbf9198af3",
             "name": "Delete Live Broadcasts",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts",
             "description": "Delete livebroadcasts",
@@ -1822,11 +1822,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "a4ea83b745c927c3ee0953d5e830d71b",
+            "id": "b6866c7a99a40a94cfbbb37bbb3c7bae",
             "name": "Get Live Broadcasts",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts",
             "description": "Returns a list of YouTube broadcasts that match the API request parameters.",
@@ -1909,11 +1909,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "feabd45192c5821caa8255ed2054ed5c",
+            "id": "04db718597afdf1255b1d3f19ce19128",
             "name": "Add Live Broadcasts",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts",
             "description": "Creates a broadcast.",
@@ -1961,11 +1961,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "a4b87ed683533a391401fdc6432b7ca6",
+            "id": "32e4ecd46d77cea0c8cdc1c687068454",
             "name": "Put Live Broadcasts",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts",
             "description": "Updates a broadcast. For example, you could modify the broadcast settings defined in the liveBroadcast resource's contentDetails object.",
@@ -2013,11 +2013,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "1bc21d8df247181ca57bc1f5ac3ffd48",
+            "id": "6d494f5e2995e910c40221aceaac4b19",
             "name": "Add Live Broadcasts Bind",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts\/bind",
             "description": "Binds a YouTube broadcast to a stream or removes an existing binding between a broadcast and a stream. A broadcast can only be bound to one video stream, though a video stream may be bound to more than one broadcast.",
@@ -2072,11 +2072,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "6a4b7c76a05067f15f082a6aa91e9e9c",
+            "id": "0b1708a4ba8487be9f5a874a7bc89023",
             "name": "Add Live Broadcasts Control",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts\/control",
             "description": "Controls the settings for a slate that can be displayed in the broadcast stream.",
@@ -2145,11 +2145,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "f67e289a33e6f0c88b8133bff20e2517",
+            "id": "5f290bc2779c54e25acb59f60c9d2d5f",
             "name": "Add Live Broadcasts Transition",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveBroadcasts\/transition",
             "description": "Changes the status of a YouTube live broadcast and initiates any processes associated with the new status. For example, when you transition a broadcast's status to testing, YouTube starts to transmit video to that broadcast's monitor stream. Before calling this method, you should confirm that the value of the status.streamStatus property for the stream bound to your broadcast is active.",
@@ -2204,11 +2204,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b3634281be988bfdebf1e4fb90213610",
+            "id": "723881a1ad23bc20056b26b84d435100",
             "name": "Delete Live Chat Bans",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/bans",
             "description": "Delete livechat bans",
@@ -2235,11 +2235,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "667e238374c7bc2fb04cf2a6d3428b6f",
+            "id": "cffe17de451caa858b09b58e93a21f97",
             "name": "Add Live Chat Bans",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/bans",
             "description": "Adds a new ban to the chat.",
@@ -2273,11 +2273,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "a512c1bede34a23c7a3c5a4b9c75f97f",
+            "id": "a682f245b0cec005622ccc31ee748607",
             "name": "Delete Live Chat Messages",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/messages",
             "description": "Delete livechat messages",
@@ -2304,11 +2304,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7eb334e1cc39bb275b9eadbea6068c28",
+            "id": "307089318b48f1aba2875420cd4d24aa",
             "name": "Get Live Chat Messages",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/messages",
             "description": "Lists live chat messages for a specific chat.",
@@ -2370,11 +2370,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "6abf6f4133a967c3fc59e16f90743b1a",
+            "id": "5288197daeaf512d1132cd96e0c22362",
             "name": "Add Live Chat Messages",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/messages",
             "description": "Adds a message to a live chat.",
@@ -2408,11 +2408,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "1d83bf01ee81a901e7d043dfc4375689",
+            "id": "309cea5f42820202de06f3ae4fabca9e",
             "name": "Delete Live Chat Moderators",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/moderators",
             "description": "Delete livechat moderators",
@@ -2439,11 +2439,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "0d7748c08766c93f6065b8fc0a9f8955",
+            "id": "f60c06360ef8adbe0b33204a33deada8",
             "name": "Get Live Chat Moderators",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/moderators",
             "description": "Lists moderators for a live chat.",
@@ -2491,11 +2491,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "154216eeaa7bb0ca2024f69b93657c38",
+            "id": "b229618b449c0d38d730438bd70477f8",
             "name": "Add Live Chat Moderators",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveChat\/moderators",
             "description": "Adds a new moderator for the chat.",
@@ -2529,11 +2529,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "f5fe6d5df52450374556897c6cf90aa5",
+            "id": "210a68723e9710fa5637da18302f100b",
             "name": "Delete Livestreams",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveStreams",
             "description": "Deletes a video stream.",
@@ -2574,11 +2574,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "75f529e16b1b71f7402821da6d52e80e",
+            "id": "3a65543d3b94c87dd5a3c228fe97c887",
             "name": "Get Livestreams",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveStreams",
             "description": "Returns a list of video streams that match the API request parameters.",
@@ -2647,11 +2647,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "2e320e07b7d999a3c8edd10dfe6ebe04",
+            "id": "a59f8c314c8c48a740d0735bebcbf5db",
             "name": "Add Livestreams",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveStreams",
             "description": "Creates a video stream. The stream enables you to send your video to YouTube, which can then broadcast the video to your audience.",
@@ -2699,11 +2699,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "f89b593e85191f46a7ccc5b7ffbca723",
+            "id": "5438295f970a12246d1d0d8c7c63c3e8",
             "name": "Put Livestreams",
             "url": "httpswww.googleapis.com\/youtube\/v1\/liveStreams",
             "description": "Updates a video stream. If the properties that you want to change cannot be updated, then you need to create a new stream with the proper settings.",
@@ -2751,11 +2751,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "dc690211503f1e1d7df42372ad3246ca",
+            "id": "88d24419653774840f6e381890ae6172",
             "name": "Delete Play List Items",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlistItems",
             "description": "Deletes a playlist item.",
@@ -2789,11 +2789,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "1cfd7821da572546161c631cb9ccd404",
+            "id": "522435e3b6f88b6aab4f8437f773827a",
             "name": "Get Play List Items",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlistItems",
             "description": "Returns a collection of playlist items that match the API request parameters. You can retrieve all of the playlist items in a specified playlist or retrieve one or more playlist items by their unique IDs.",
@@ -2862,11 +2862,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "c904e7aaf81af948610afe1c9bb2fd33",
+            "id": "fc11bf6011816ed60b759221cf7404e7",
             "name": "Add Play List Items",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlistItems",
             "description": "Adds a resource to a playlist.",
@@ -2907,11 +2907,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "ea10fcef6039301fb3fac8901b9713f4",
+            "id": "944e664f5fec5a37f0c15ce231cae7c0",
             "name": "Put Play List Items",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlistItems",
             "description": "Modifies a playlist item. For example, you could update the item's position in the playlist.",
@@ -2952,11 +2952,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "0fd59605c0cbdd540c92c9f40f8aaf6d",
+            "id": "83c73993e88cf8cede559de7042ac53d",
             "name": "Delete Playlists",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlists",
             "description": "Deletes a playlist.",
@@ -2990,11 +2990,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "011db144c3e7c41e031f1c3502ca2093",
+            "id": "39287a618695081be0e709bc60fe1e33",
             "name": "Get Playlists",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlists",
             "description": "Returns a collection of playlists that match the API request parameters. For example, you can retrieve all playlists that the authenticated user owns, or you can retrieve one or more playlists by their unique IDs.",
@@ -3077,11 +3077,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b4e2edbf96d08bb1903cd252e03959ce",
+            "id": "95544a41b1e379ffd4fd6315080b124f",
             "name": "Add Playlists",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlists",
             "description": "Creates a playlist.",
@@ -3129,11 +3129,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "2076582484a5277621caf3467ef46238",
+            "id": "ef7906b953ddbe2be51c113162dee555",
             "name": "Put Playlists",
             "url": "httpswww.googleapis.com\/youtube\/v1\/playlists",
             "description": "Modifies a playlist. For example, you could change a playlist's title, description, or privacy status.",
@@ -3174,11 +3174,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "71422dbc2af13c129b580b88b15c7a14",
+            "id": "177e462fb6f305f3089870dd6078f18d",
             "name": "Get Search",
             "url": "httpswww.googleapis.com\/youtube\/v1\/search",
             "description": "Returns a collection of search results that match the query parameters specified in the API request. By default, a search result set identifies matching video, channel, and playlist resources, but you can also configure queries to only retrieve a specific type of resource.",
@@ -3415,11 +3415,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "aefdf8618a10b079549c3d167380eeee",
+            "id": "5bf85b6d8b29b4d47ff9deb6bbf6a635",
             "name": "Get Sponsors",
             "url": "httpswww.googleapis.com\/youtube\/v1\/sponsors",
             "description": "Lists sponsors for a channel.",
@@ -3467,11 +3467,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "53e6f7909bf63048394871cbb4edbceb",
+            "id": "e95060e2d4ad32c172f84d7ad9f58051",
             "name": "Delete Subscriptions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/subscriptions",
             "description": "Deletes a subscription.",
@@ -3498,11 +3498,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "8c92f2e821c7ad7bf3a789e8d508662a",
+            "id": "8d0f1ed55147c3a1abe9bfc45f644f69",
             "name": "Get Subscriptions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/subscriptions",
             "description": "Returns subscription resources that match the API request criteria.",
@@ -3606,11 +3606,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "4a23aad1471c583f70cab0bb317be14f",
+            "id": "8f776ba7396769df95be577f94b1ef1a",
             "name": "Add Subscriptions",
             "url": "httpswww.googleapis.com\/youtube\/v1\/subscriptions",
             "description": "Adds a subscription for the authenticated user's channel.",
@@ -3644,11 +3644,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "3217584ce8aeb50a6f606193a4c0b012",
+            "id": "990610ad7c684df479681bd9690382cd",
             "name": "Get Superchatevents",
             "url": "httpswww.googleapis.com\/youtube\/v1\/superChatEvents",
             "description": "Lists Super Chat events for a channel.",
@@ -3696,11 +3696,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "03f7d51c08b7ae8fb460c5da032f2c98",
+            "id": "72be1ec8b559ae3dab24bd624843db0c",
             "name": "Add Thumbnails Set",
             "url": "httpswww.googleapis.com\/youtube\/v1\/thumbnails\/set",
             "description": "Uploads a custom video thumbnail to YouTube and sets it for a video.",
@@ -3734,11 +3734,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "22c86aa215e7ecaa49a31f112decf993",
+            "id": "024a15cbac43e08a3abd31125d6cf6a0",
             "name": "Get Video Abuse Report Reasons",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videoAbuseReportReasons",
             "description": "Returns a list of abuse reasons that can be used for reporting abusive videos.",
@@ -3772,11 +3772,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "158f759f71549839d8d4ac8d33dd19fe",
+            "id": "96a406a0db01173b3f98e64a87924d03",
             "name": "Get Veocategories",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videoCategories",
             "description": "Returns a list of categories that can be associated with YouTube videos.",
@@ -3824,11 +3824,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "c82391ea97c4835e4cbebb2d4a9c4340",
+            "id": "886ea08659195de49f719ec0482efe43",
             "name": "Delete Videos",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos",
             "description": "Deletes a YouTube video.",
@@ -3862,11 +3862,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "f5806613d88833626b3a1e1e89d3169e",
+            "id": "c5788cfab70bbc4acc6b62f7de0409ad",
             "name": "Get Videos",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos",
             "description": "Returns a list of videos that match the API request parameters.",
@@ -3977,11 +3977,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b47ffa8ed5985105d1b476c0efaeb650",
+            "id": "2c8cef9fb4fbe68ff90310bda3c02e4d",
             "name": "Add Videos",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos",
             "description": "Uploads a video to YouTube and optionally sets the video's metadata.",
@@ -4050,11 +4050,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "2c74bbf76a3cee93418dd100d5647ffd",
+            "id": "be4de0e498ea4212b400ba393edf47c6",
             "name": "Put Videos",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos",
             "description": "Updates a video's metadata.",
@@ -4095,11 +4095,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "d5a98dfb07877f39fce2b8db0d392829",
+            "id": "14fda98d7398f892167b2666cfee0de1",
             "name": "Get Videos Get Rating",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos\/getRating",
             "description": "Retrieves the ratings that the authorized user gave to a list of specified videos.",
@@ -4133,11 +4133,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "ef0c13c0789b9735bd25eedea6c53af5",
+            "id": "997989007368197be47c84980c26c22e",
             "name": "Add Videos Rate",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos\/rate",
             "description": "Add a like or dislike rating to a video or remove a rating from a video.",
@@ -4171,11 +4171,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "b33570b8bbf1f413c4ce6c275de77f40",
+            "id": "7ff970a53056b71c2b0d7a1c52423d23",
             "name": "Add Videos Report Abuse",
             "url": "httpswww.googleapis.com\/youtube\/v1\/videos\/reportAbuse",
             "description": "Report abuse for a video.",
@@ -4209,11 +4209,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "7fe13ebcbd89957b692c5fe3e59b29eb",
+            "id": "16be14f4e213d30f7981a9d9e7ebb8fe",
             "name": "Add Watermarks Set",
             "url": "httpswww.googleapis.com\/youtube\/v1\/watermarks\/set",
             "description": "Uploads a watermark image to YouTube and sets it for a channel.",
@@ -4254,11 +4254,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "ec54a9fdc0b0642d72865f39c7afab25",
+            "id": "30900a7a439dca612baab208ede28a68",
             "name": "Add Watermarks Unset",
             "url": "httpswww.googleapis.com\/youtube\/v1\/watermarks\/unset",
             "description": "Deletes a channel's watermark image.",
@@ -4292,11 +4292,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "c39c94d653e545f8d96a53a8753408f6",
+            "id": "9ce63cd81fc87fea8c5b31d11e1ca4b0",
             "name": "Delete Groupitems",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groupItems",
             "description": "Removes an item from a group.",
@@ -4330,11 +4330,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "1da40f972f932d998a20f3b62af68c62",
+            "id": "314932b5b848a5997fb631caa27723b6",
             "name": "Get Groupitems",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groupItems",
             "description": "Returns a collection of group items that match the API request parameters.",
@@ -4368,11 +4368,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "52095d97581db4e2830e89f715830866",
+            "id": "47504d5e00bba158256f3ee64370077c",
             "name": "Add Groupitems",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groupItems",
             "description": "Creates a group item.",
@@ -4406,11 +4406,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "d3a1ef50d8fa62c55e0d23b271e5accc",
+            "id": "0c93bef290524bc0de44673b3c308d45",
             "name": "Delete Groups",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groups",
             "description": "Deletes a group.",
@@ -4444,11 +4444,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "866d577f9a23c613faac820701890845",
+            "id": "20a9d38dca6bb93d307dbef2225e04eb",
             "name": "Get Groups",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groups",
             "description": "Returns a collection of groups that match the API request parameters. For example, you can retrieve all groups that the authenticated user owns, or you can retrieve one or more groups by their unique IDs.",
@@ -4496,11 +4496,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "0544eabb65b20221a7ca303a2689e9ed",
+            "id": "d9d8223c41acb0a4b6e0fc4499b4d243",
             "name": "Add Groups",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groups",
             "description": "Creates a group.",
@@ -4534,11 +4534,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "3774aab67d94514bd403c7a0f7260f32",
+            "id": "44ccd148a8ee62b56db24293e2e7dba2",
             "name": "Put Groups",
             "url": "httpswww.googleapis.com\/youtube\/v1\/groups",
             "description": "Modifies a group. For example, you could change a group's title.",
@@ -4572,11 +4572,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         },
         {
-            "id": "31de1b9676c87f4f19735355c62ffaf0",
+            "id": "4e3089c906594439bf105e4c34db0d3b",
             "name": "Get Reports",
             "url": "httpswww.googleapis.com\/youtube\/v1\/reports",
             "description": "Retrieve your YouTube Analytics reports.",
@@ -4666,7 +4666,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "9253de1aaf171cca320d8a2d02652d30",
+            "collectionId": "4a877959d25ad58e6d4cf5cd253c70f4",
             "rawModeData": ""
         }
     ]
